@@ -1,0 +1,1 @@
+# djangoda-ishlash
